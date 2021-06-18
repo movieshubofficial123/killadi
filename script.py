@@ -2,7 +2,7 @@ class Script(object):
 
     START_MSG = """<b>👋Hy {},
 
-I'm an advanced filter bot with many capabilities!
+Hello mwonu!
 There is no practical limits for my filtering capacity :)
 
 See <i>/help</i> for commands and more details.</b>
@@ -52,9 +52,9 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : MT Unlimited Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Ninte_______</b>
 
-⭕️<b>Creater :</b> <b>@Mo_Tech_YT</b>    
+⭕️<b>Creater :</b> <b>@AbinCr</b>    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
